@@ -13,6 +13,7 @@ public class Person {
 	private int age;
 	private String address;
 	private String mwj;
+	// clone 2 ÏÂµÄ²Öku
 	public Person() {
 		
 	}
